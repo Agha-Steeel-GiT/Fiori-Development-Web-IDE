@@ -1,0 +1,8 @@
+{
+    "ContentLocation": "${SERVERWORKSPACE}/ma/matif/OrionContent/MYFirstFioriApp",
+    "FullName": "MYFirstFioriApp",
+    "OrionVersion": 8,
+    "Properties": {},
+    "UniqueId": "MYFirstFioriApp",
+    "WorkspaceId": "matif-OrionContent"
+}

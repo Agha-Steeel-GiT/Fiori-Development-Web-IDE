@@ -1,0 +1,8 @@
+{
+    "ContentLocation": "${SERVERWORKSPACE}/ma/matif/OrionContent/MyFirstCRUDAPP",
+    "FullName": "MyFirstCRUDAPP",
+    "OrionVersion": 8,
+    "Properties": {},
+    "UniqueId": "MyFirstCRUDAPP",
+    "WorkspaceId": "matif-OrionContent"
+}
